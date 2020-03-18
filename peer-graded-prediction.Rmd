@@ -1,7 +1,6 @@
 ---
 title: "Prediction Assignment Writeup"
 author: "Facundo Otrino"
-date: "3/16/2020"
 output: html_document
 ---
 ### Background
